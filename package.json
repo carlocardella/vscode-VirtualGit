@@ -3,6 +3,7 @@
     "displayName": "vscode-VirtualGit",
     "description": "Virtual Git extension pack",
     "version": "0.0.1",
+    "icon": "assets/git-pack.png",
     "publisher": "carlocardella",
     "author": {
         "name": "Carlo Cardella",
