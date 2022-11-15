@@ -17,6 +17,18 @@
     "bugs": {
         "url": "https://github.com/carlocardella/vscode-VirtualGit/issues"
     },
+    "keywords": [
+        "git",
+        "github",
+        "gist",
+        "gists",
+        "virtual file system",
+        "virtual gists",
+        "remote",
+        "repository",
+        "repo",
+        "virtual repo"
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },
