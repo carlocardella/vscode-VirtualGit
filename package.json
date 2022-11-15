@@ -1,0 +1,29 @@
+{
+    "name": "vscode-virtualgit",
+    "displayName": "vscode-VirtualGit",
+    "description": "Virtual Git extension pack",
+    "version": "0.0.1",
+    "publisher": "carlocardella",
+    "author": {
+        "name": "Carlo Cardella",
+        "url": "https://cloudnotes.io"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carlocardella/vscode-VirtualGit.git"
+    },
+    "bugs": {
+        "url": "https://github.com/carlocardella/vscode-VirtualGit/issues"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "carlocardella.virtualrepos",
+        "carlocardella.virtualgists"
+    ]
+}
