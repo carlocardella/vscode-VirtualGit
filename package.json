@@ -2,7 +2,7 @@
     "name": "vscode-virtualgit",
     "displayName": "vscode-VirtualGit",
     "description": "Virtual Git extension pack",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icon": "assets/git-pack.png",
     "publisher": "carlocardella",
     "author": {
